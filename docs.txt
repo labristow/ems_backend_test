@@ -1,0 +1,17 @@
+This backend services provide a communication interface (in form of api) to the frontend.
+
+Running the app locally:
+STEP 1:
+    Run "npm install" in the root directory of this project
+    Start the apache server (on your xampp application)
+    Start the server by running "npm run dev"
+
+
+EXPENSES CATEGORIES:
+    - Vacation
+    - Food
+    - Accomodation
+    - Misc
+    - Electricity Bill
+    - Health Bill
+    - Subscription
